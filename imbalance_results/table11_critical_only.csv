@@ -1,0 +1,6 @@
+strategy,cls,support,precision,recall,f1,auprc
+S0 Baseline,Critical,8819,0.3535,0.8632,0.5016,0.7452
+S1 Cost-Sensitive,Critical,8819,0.8168,0.5924,0.6867,0.7659
+S2 SMOTE+ENN,Critical,8819,0.4459,0.7158,0.5495,0.6669
+S3 Threshold,Critical,8819,0.7024,0.6463,0.6732,0.7452
+S4 Cascade,Critical,8819,0.3897,0.8469,0.5338,0.7487
